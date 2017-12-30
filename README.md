@@ -5,7 +5,7 @@
 ***
 
 ##### Name :
-> TERgantung (Recreated ancient <a href="#" onclick="window.open('https://en.wikipedia.org/wiki/Hangman_(game)');" title="HANGMAN definition in Wikipedia">HANGMAN</a> word game)
+> TERgantung (Recreated ancient <a href="https://en.wikipedia.org/wiki/Hangman_(game)" title="HANGMAN definition in Wikipedia">HANGMAN</a> word game)
 ##### Version :
 > 1.0
 ##### Writter :
