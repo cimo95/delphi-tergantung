@@ -1,9 +1,11 @@
 object mf: Tmf
   Left = 486
   Top = 286
-  Width = 636
-  Height = 368
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
   Caption = 'TERgantung 1.0'
+  ClientHeight = 340
+  ClientWidth = 628
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -29,9 +31,9 @@ object mf: Tmf
       object c2: TLabel
         Left = 8
         Top = 34
-        Width = 59
+        Width = 43
         Height = 13
-        Caption = 'QUESTION :'
+        Caption = 'RIDDLE :'
       end
       object c6: TLabel
         Left = 8
@@ -353,7 +355,7 @@ object mf: Tmf
           BorderStyle = bsNone
           Color = clBtnFace
           Lines.Strings = (
-            '1. Question is limited to 64 letters'
+            '1. Riddle is limited to 64 letters'
             'only'
             '2. Write down the clue so the '
             'answering can answer more easily'

@@ -34,9 +34,8 @@ object hf: Thf
     Lines.Strings = (
       'HOME PAGE'
       
-        '1.'#9'QUESTION : Type your sentence only letters, numbers and space' +
-        's allowed, push peek button to make sure your sentence is correc' +
-        't'
+        '1.'#9'RIDDLE : Type your sentence only letters, numbers and spaces ' +
+        'allowed, push peek button to make sure your sentence is correct'
       ''
       
         '2.'#9'CLUE : Type your sentence'#39's clue, to limit guesser knowledge ' +
@@ -46,10 +45,7 @@ object hf: Thf
       ''
       ''
       'PLAYING PAGE'
-      
-        '1.'#9'GUESS BOX : Here the main section of the game, the blue line ' +
-        'shows the sum of letters should be guessed by the guesser, and t' +
-        'he red letter means the used letter along the game'
+      '1.'#9'GUESS BOX : Here the main section of the game'
       ''
       '2.'#9'CLUE : Show the question'#39's clue'
       ''
